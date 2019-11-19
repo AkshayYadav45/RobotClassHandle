@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46339" started-at="2019-11-19T22:01:02Z" finished-at="2019-11-19T22:01:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46339" started-at="2019-11-19T22:01:02Z" finished-at="2019-11-19T22:01:48Z">
+      <class name="pkg.Robotahandles">
+        <test-method status="PASS" signature="demo()[pri:0, instance:pkg.Robotahandles@53b32d7]" name="demo" duration-ms="46292" started-at="2019-11-19T22:01:02Z" finished-at="2019-11-19T22:01:48Z">
+        </test-method> <!-- demo -->
+      </class> <!-- pkg.Robotahandles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
